@@ -1,0 +1,1 @@
+This code accompanies the following publication and was used to generate results therein: D.Biswas, Y.Liu et al "Prospective validation of ORACLE, a clonal expression biomarker associated with survival of patients with lung adenocarcinoma" https://www.nature.com/articles/s43018-024-00883-1
